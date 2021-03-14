@@ -3,5 +3,6 @@ class Player {
         this.name = config.name;
 
         this.test = config.test;
+        this.version = config.version;
     }
 }
