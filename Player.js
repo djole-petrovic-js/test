@@ -7,5 +7,7 @@ class Player {
 
         this.anotherTest1 = config.anotherTest1;
         this.anotherTest2 = config.anotherTest2;
+
+        this.el = config.el;
     }
 }
