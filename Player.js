@@ -26,4 +26,11 @@ class Player {
             
         }, timeout);
     }
+    pause() {
+        console.log('pause');
+    }
+
+    next() {
+        console.log('nexr');
+    }
 }
