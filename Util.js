@@ -1,0 +1,5 @@
+class Util {
+    constructor(config) {
+        
+    }
+}
