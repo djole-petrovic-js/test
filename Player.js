@@ -4,5 +4,7 @@ class Player {
 
         this.test = config.test;
         this.version = config.version;
+
+        this.anotherTest2 = config.anotherTest2;
     }
 }
