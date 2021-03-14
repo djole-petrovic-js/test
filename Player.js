@@ -16,4 +16,14 @@ class Player {
     play() {
         console.log('play');
     }
+
+    index() {
+        console.log('index');
+
+        alert('da');
+
+        setTimeout(() => {
+            
+        }, timeout);
+    }
 }
