@@ -12,4 +12,8 @@ class Player {
         this.anotherTest3 = config.anotherTest3;
         this.nesto = config.nesto;
     }
+
+    play() {
+        console.log('play');
+    }
 }
